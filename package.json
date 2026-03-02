@@ -1,0 +1,7 @@
+{
+  "name": "webext-example-context-menu",
+  "version": "1.0.0",
+  "description": "A Chrome extension demonstrating right-click context menu",
+  "author": "Zovo <hello@zovo.one>",
+  "license": "MIT"
+}
